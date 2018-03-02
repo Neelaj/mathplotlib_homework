@@ -61,278 +61,433 @@ Result_merge1.sort_values(by= 'city', ascending= True)
       <th>date</th>
       <th>fare</th>
       <th>ride_id</th>
+      <th>Unnamed: 4</th>
+      <th>Unnamed: 5</th>
+      <th>Unnamed: 6</th>
+      <th>Unnamed: 7</th>
+      <th>Unnamed: 8</th>
       <th>driver_count</th>
       <th>type</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th>1489</th>
+      <th>0</th>
       <td>Alvarezhaven</td>
-      <td>2016-07-04 04:28:22</td>
-      <td>33.31</td>
-      <td>306054352684</td>
-      <td>21</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1475</th>
-      <td>Alvarezhaven</td>
-      <td>2016-06-11 23:45:52</td>
-      <td>43.34</td>
-      <td>3938173695105</td>
-      <td>21</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1476</th>
-      <td>Alvarezhaven</td>
-      <td>2016-02-07 02:46:18</td>
-      <td>35.22</td>
-      <td>5405756761666</td>
-      <td>21</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1477</th>
-      <td>Alvarezhaven</td>
-      <td>2016-01-21 07:25:48</td>
-      <td>22.83</td>
-      <td>3565582370530</td>
-      <td>21</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1479</th>
-      <td>Alvarezhaven</td>
-      <td>2016-05-20 12:26:56</td>
-      <td>42.00</td>
-      <td>7852567608457</td>
-      <td>21</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1480</th>
-      <td>Alvarezhaven</td>
-      <td>2016-08-03 06:45:57</td>
-      <td>4.07</td>
-      <td>6100187302721</td>
-      <td>21</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1481</th>
-      <td>Alvarezhaven</td>
-      <td>2016-01-25 06:02:25</td>
-      <td>5.16</td>
-      <td>2233026076010</td>
-      <td>21</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1482</th>
-      <td>Alvarezhaven</td>
-      <td>2016-11-19 02:00:34</td>
-      <td>5.34</td>
-      <td>1108172306544</td>
-      <td>21</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1483</th>
-      <td>Alvarezhaven</td>
-      <td>2016-02-15 11:14:12</td>
-      <td>31.74</td>
-      <td>5487020911007</td>
-      <td>21</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1484</th>
-      <td>Alvarezhaven</td>
-      <td>2016-06-16 18:29:05</td>
-      <td>32.46</td>
-      <td>858631473935</td>
-      <td>21</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1485</th>
-      <td>Alvarezhaven</td>
-      <td>2016-03-16 02:01:15</td>
-      <td>33.62</td>
-      <td>8974645194719</td>
-      <td>21</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1486</th>
-      <td>Alvarezhaven</td>
-      <td>2016-09-19 16:01:49</td>
-      <td>27.51</td>
-      <td>6282665852239</td>
-      <td>21</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1487</th>
-      <td>Alvarezhaven</td>
-      <td>2016-05-16 15:33:14</td>
-      <td>6.45</td>
-      <td>8939751998750</td>
-      <td>21</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1488</th>
-      <td>Alvarezhaven</td>
-      <td>2016-01-27 10:38:40</td>
-      <td>6.72</td>
-      <td>6152998520191</td>
-      <td>21</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1459</th>
-      <td>Alvarezhaven</td>
-      <td>2016-04-18 20:51:29</td>
+      <td>4/18/2016 20:51</td>
       <td>31.93</td>
-      <td>4267015736324</td>
+      <td>4.267020e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Alvarezhaven</td>
+      <td>NaN</td>
+      <td>23.928710</td>
       <td>21</td>
       <td>Urban</td>
     </tr>
     <tr>
-      <th>1460</th>
+      <th>30</th>
       <td>Alvarezhaven</td>
-      <td>2016-08-01 00:39:48</td>
-      <td>6.42</td>
-      <td>8394540350728</td>
+      <td>7/4/2016 4:28</td>
+      <td>33.31</td>
+      <td>3.060540e+11</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
       <td>21</td>
       <td>Urban</td>
     </tr>
     <tr>
-      <th>1474</th>
+      <th>29</th>
       <td>Alvarezhaven</td>
-      <td>2016-05-15 20:43:44</td>
-      <td>40.04</td>
-      <td>1806812593131</td>
+      <td>1/27/2016 10:38</td>
+      <td>6.72</td>
+      <td>6.153000e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
       <td>21</td>
       <td>Urban</td>
     </tr>
     <tr>
-      <th>1473</th>
+      <th>28</th>
       <td>Alvarezhaven</td>
-      <td>2016-09-23 21:51:59</td>
-      <td>17.67</td>
-      <td>3829336915201</td>
+      <td>5/16/2016 15:33</td>
+      <td>6.45</td>
+      <td>8.939750e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
       <td>21</td>
       <td>Urban</td>
     </tr>
     <tr>
-      <th>1478</th>
+      <th>27</th>
       <td>Alvarezhaven</td>
-      <td>2016-05-01 14:35:12</td>
+      <td>9/19/2016 16:01</td>
+      <td>27.51</td>
+      <td>6.282670e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>21</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>Alvarezhaven</td>
+      <td>3/16/2016 2:01</td>
+      <td>33.62</td>
+      <td>8.974650e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>21</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>Alvarezhaven</td>
+      <td>6/16/2016 18:29</td>
+      <td>32.46</td>
+      <td>8.586310e+11</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>21</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td>Alvarezhaven</td>
+      <td>2/15/2016 11:14</td>
+      <td>31.74</td>
+      <td>5.487020e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>21</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>Alvarezhaven</td>
+      <td>11/19/2016 2:00</td>
+      <td>5.34</td>
+      <td>1.108170e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>21</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>Alvarezhaven</td>
+      <td>1/25/2016 6:02</td>
+      <td>5.16</td>
+      <td>2.233030e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>21</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>Alvarezhaven</td>
+      <td>5/20/2016 12:26</td>
+      <td>42.00</td>
+      <td>7.852570e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>21</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>Alvarezhaven</td>
+      <td>5/1/2016 14:35</td>
       <td>22.54</td>
-      <td>6435260355302</td>
+      <td>6.435260e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
       <td>21</td>
       <td>Urban</td>
     </tr>
     <tr>
-      <th>1462</th>
+      <th>18</th>
       <td>Alvarezhaven</td>
-      <td>2016-08-18 07:12:06</td>
+      <td>1/21/2016 7:25</td>
+      <td>22.83</td>
+      <td>3.565580e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>21</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>Alvarezhaven</td>
+      <td>2/7/2016 2:46</td>
+      <td>35.22</td>
+      <td>5.405760e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>21</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>Alvarezhaven</td>
+      <td>6/11/2016 23:45</td>
+      <td>43.34</td>
+      <td>3.938170e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>21</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>Alvarezhaven</td>
+      <td>8/3/2016 6:45</td>
+      <td>4.07</td>
+      <td>6.100190e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>21</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>Alvarezhaven</td>
+      <td>9/23/2016 21:51</td>
+      <td>17.67</td>
+      <td>3.829340e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>21</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Alvarezhaven</td>
+      <td>8/1/2016 0:39</td>
+      <td>6.42</td>
+      <td>8.394540e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Alyssaberg</td>
+      <td>NaN</td>
+      <td>20.609615</td>
+      <td>21</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>Alvarezhaven</td>
+      <td>5/15/2016 20:43</td>
+      <td>40.04</td>
+      <td>1.806810e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>21</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Alvarezhaven</td>
+      <td>8/18/2016 7:12</td>
       <td>20.74</td>
-      <td>357421158941</td>
+      <td>3.574210e+11</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
       <td>21</td>
       <td>Urban</td>
     </tr>
     <tr>
-      <th>1466</th>
+      <th>4</th>
       <td>Alvarezhaven</td>
-      <td>2016-01-28 23:53:55</td>
-      <td>9.87</td>
-      <td>2747592323442</td>
-      <td>21</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1467</th>
-      <td>Alvarezhaven</td>
-      <td>2016-04-25 08:50:08</td>
-      <td>31.82</td>
-      <td>7948246793429</td>
-      <td>21</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1468</th>
-      <td>Alvarezhaven</td>
-      <td>2016-09-16 14:36:24</td>
-      <td>20.61</td>
-      <td>8307812366044</td>
-      <td>21</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1469</th>
-      <td>Alvarezhaven</td>
-      <td>2016-03-16 22:24:17</td>
-      <td>31.08</td>
-      <td>7413831046469</td>
-      <td>21</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1470</th>
-      <td>Alvarezhaven</td>
-      <td>2016-01-20 06:52:53</td>
-      <td>42.41</td>
-      <td>7825539032352</td>
-      <td>21</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1463</th>
-      <td>Alvarezhaven</td>
-      <td>2016-04-04 23:45:50</td>
+      <td>4/4/2016 23:45</td>
       <td>14.25</td>
-      <td>6431434271355</td>
+      <td>6.431430e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
       <td>21</td>
       <td>Urban</td>
     </tr>
     <tr>
-      <th>1471</th>
+      <th>5</th>
       <td>Alvarezhaven</td>
-      <td>2016-06-25 22:46:06</td>
-      <td>24.16</td>
-      <td>9047320468692</td>
-      <td>21</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1472</th>
-      <td>Alvarezhaven</td>
-      <td>2016-06-21 09:57:52</td>
-      <td>20.88</td>
-      <td>9456788060940</td>
-      <td>21</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1465</th>
-      <td>Alvarezhaven</td>
-      <td>2016-05-26 11:36:48</td>
-      <td>39.28</td>
-      <td>8878745717970</td>
-      <td>21</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1464</th>
-      <td>Alvarezhaven</td>
-      <td>2016-10-31 05:33:55</td>
+      <td>10/31/2016 5:33</td>
       <td>20.23</td>
-      <td>4348900295000</td>
+      <td>4.348900e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>21</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Alvarezhaven</td>
+      <td>5/26/2016 11:36</td>
+      <td>39.28</td>
+      <td>8.878750e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>21</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Alvarezhaven</td>
+      <td>1/28/2016 23:53</td>
+      <td>9.87</td>
+      <td>2.747590e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>21</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Alvarezhaven</td>
+      <td>9/1/2016 22:57</td>
+      <td>18.09</td>
+      <td>1.197330e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Anitamouth</td>
+      <td>NaN</td>
+      <td>37.315556</td>
+      <td>21</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>Alvarezhaven</td>
+      <td>9/16/2016 14:36</td>
+      <td>20.61</td>
+      <td>8.307810e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>21</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>Alvarezhaven</td>
+      <td>3/16/2016 22:24</td>
+      <td>31.08</td>
+      <td>7.413830e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>21</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>Alvarezhaven</td>
+      <td>1/20/2016 6:52</td>
+      <td>42.41</td>
+      <td>7.825540e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>21</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>Alvarezhaven</td>
+      <td>6/25/2016 22:46</td>
+      <td>24.16</td>
+      <td>9.047320e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>21</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>Alvarezhaven</td>
+      <td>6/21/2016 9:57</td>
+      <td>20.88</td>
+      <td>9.456790e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
       <td>21</td>
       <td>Urban</td>
     </tr>
@@ -344,280 +499,435 @@ Result_merge1.sort_values(by= 'city', ascending= True)
       <td>...</td>
       <td>...</td>
       <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
     </tr>
     <tr>
-      <th>1491</th>
+      <th>2368</th>
       <td>Yolandafurt</td>
-      <td>2016-06-01 01:49:06</td>
-      <td>31.05</td>
-      <td>308132266739</td>
-      <td>7</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1492</th>
-      <td>Yolandafurt</td>
-      <td>2016-02-28 11:02:09</td>
-      <td>36.00</td>
-      <td>6313980463869</td>
-      <td>7</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1493</th>
-      <td>Yolandafurt</td>
-      <td>2016-11-20 11:01:23</td>
-      <td>24.95</td>
-      <td>3736563482430</td>
-      <td>7</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1494</th>
-      <td>Yolandafurt</td>
-      <td>2016-10-15 09:08:27</td>
-      <td>32.99</td>
-      <td>7248809199355</td>
-      <td>7</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>1495</th>
-      <td>Yolandafurt</td>
-      <td>2016-09-24 14:53:44</td>
+      <td>9/24/2016 14:53</td>
       <td>21.25</td>
-      <td>7996695327849</td>
+      <td>7.996700e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
       <td>7</td>
       <td>Urban</td>
     </tr>
     <tr>
-      <th>1504</th>
+      <th>2366</th>
       <td>Yolandafurt</td>
-      <td>2016-08-27 23:18:36</td>
-      <td>34.95</td>
-      <td>9030131895269</td>
+      <td>11/20/2016 11:01</td>
+      <td>24.95</td>
+      <td>3.736560e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
       <td>7</td>
       <td>Urban</td>
     </tr>
     <tr>
-      <th>947</th>
-      <td>Zimmermanmouth</td>
-      <td>2016-06-29 21:29:33</td>
-      <td>17.12</td>
-      <td>1214603530980</td>
-      <td>45</td>
+      <th>2365</th>
+      <td>Yolandafurt</td>
+      <td>2/28/2016 11:02</td>
+      <td>36.00</td>
+      <td>6.313980e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>7</td>
       <td>Urban</td>
     </tr>
     <tr>
-      <th>969</th>
-      <td>Zimmermanmouth</td>
-      <td>2016-08-21 05:53:52</td>
-      <td>40.95</td>
-      <td>5672693632216</td>
-      <td>45</td>
+      <th>2364</th>
+      <td>Yolandafurt</td>
+      <td>6/1/2016 1:49</td>
+      <td>31.05</td>
+      <td>3.081320e+11</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>7</td>
       <td>Urban</td>
     </tr>
     <tr>
-      <th>968</th>
-      <td>Zimmermanmouth</td>
-      <td>2016-11-12 22:15:06</td>
-      <td>5.27</td>
-      <td>885932877834</td>
-      <td>45</td>
+      <th>2363</th>
+      <td>Yolandafurt</td>
+      <td>7/3/2016 17:13</td>
+      <td>32.91</td>
+      <td>1.045870e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>7</td>
       <td>Urban</td>
     </tr>
     <tr>
-      <th>948</th>
-      <td>Zimmermanmouth</td>
-      <td>2016-08-11 11:17:38</td>
-      <td>5.97</td>
-      <td>7276044030126</td>
-      <td>45</td>
+      <th>2372</th>
+      <td>Yolandafurt</td>
+      <td>9/8/2016 11:16</td>
+      <td>12.06</td>
+      <td>6.618020e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>7</td>
       <td>Urban</td>
     </tr>
     <tr>
-      <th>949</th>
+      <th>2396</th>
       <td>Zimmermanmouth</td>
-      <td>2016-08-01 20:38:52</td>
-      <td>34.95</td>
-      <td>2258161061820</td>
-      <td>45</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>950</th>
-      <td>Zimmermanmouth</td>
-      <td>2016-09-19 02:40:07</td>
-      <td>16.21</td>
-      <td>4966546004949</td>
-      <td>45</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>951</th>
-      <td>Zimmermanmouth</td>
-      <td>2016-07-23 19:20:11</td>
-      <td>28.89</td>
-      <td>1529363655249</td>
-      <td>45</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>952</th>
-      <td>Zimmermanmouth</td>
-      <td>2016-05-04 18:32:14</td>
-      <td>20.96</td>
-      <td>6490497681785</td>
-      <td>45</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>953</th>
-      <td>Zimmermanmouth</td>
-      <td>2016-02-11 19:07:24</td>
-      <td>14.50</td>
-      <td>7547394650211</td>
-      <td>45</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>954</th>
-      <td>Zimmermanmouth</td>
-      <td>2016-05-25 14:46:47</td>
-      <td>41.96</td>
-      <td>5202604424953</td>
-      <td>45</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>955</th>
-      <td>Zimmermanmouth</td>
-      <td>2016-08-09 04:35:39</td>
-      <td>26.63</td>
-      <td>2326214075695</td>
-      <td>45</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>956</th>
-      <td>Zimmermanmouth</td>
-      <td>2016-08-12 02:53:03</td>
-      <td>34.84</td>
-      <td>7176327056501</td>
-      <td>45</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>957</th>
-      <td>Zimmermanmouth</td>
-      <td>2016-05-11 17:45:05</td>
-      <td>37.04</td>
-      <td>9089069809060</td>
-      <td>45</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>958</th>
-      <td>Zimmermanmouth</td>
-      <td>2016-01-28 01:13:34</td>
-      <td>43.51</td>
-      <td>2489772698062</td>
-      <td>45</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>959</th>
-      <td>Zimmermanmouth</td>
-      <td>2016-11-28 22:05:03</td>
-      <td>41.58</td>
-      <td>7488861145000</td>
-      <td>45</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>960</th>
-      <td>Zimmermanmouth</td>
-      <td>2016-04-22 07:47:47</td>
+      <td>4/22/2016 7:47</td>
       <td>26.23</td>
-      <td>6060050374869</td>
+      <td>6.060050e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
       <td>45</td>
       <td>Urban</td>
     </tr>
     <tr>
-      <th>962</th>
+      <th>2397</th>
       <td>Zimmermanmouth</td>
-      <td>2016-08-31 18:06:40</td>
-      <td>24.23</td>
-      <td>3364398658418</td>
-      <td>45</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>963</th>
-      <td>Zimmermanmouth</td>
-      <td>2016-06-10 17:19:23</td>
-      <td>39.65</td>
-      <td>5690108755824</td>
-      <td>45</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>964</th>
-      <td>Zimmermanmouth</td>
-      <td>2016-06-01 11:10:43</td>
-      <td>42.01</td>
-      <td>589257725947</td>
-      <td>45</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>965</th>
-      <td>Zimmermanmouth</td>
-      <td>2016-09-15 00:25:17</td>
-      <td>21.88</td>
-      <td>1942308210837</td>
-      <td>45</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>966</th>
-      <td>Zimmermanmouth</td>
-      <td>2016-09-16 03:59:52</td>
-      <td>34.65</td>
-      <td>3806179410575</td>
-      <td>45</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>967</th>
-      <td>Zimmermanmouth</td>
-      <td>2016-08-19 14:31:49</td>
-      <td>14.36</td>
-      <td>7886293230125</td>
-      <td>45</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>970</th>
-      <td>Zimmermanmouth</td>
-      <td>2016-10-21 04:10:04</td>
-      <td>24.69</td>
-      <td>9508846094814</td>
-      <td>45</td>
-      <td>Urban</td>
-    </tr>
-    <tr>
-      <th>961</th>
-      <td>Zimmermanmouth</td>
-      <td>2016-05-27 02:07:33</td>
+      <td>5/27/2016 2:07</td>
       <td>41.16</td>
-      <td>388096159087</td>
+      <td>3.880960e+11</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>45</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2398</th>
+      <td>Zimmermanmouth</td>
+      <td>8/31/2016 18:06</td>
+      <td>24.23</td>
+      <td>3.364400e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>45</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2399</th>
+      <td>Zimmermanmouth</td>
+      <td>6/10/2016 17:19</td>
+      <td>39.65</td>
+      <td>5.690110e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>45</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2403</th>
+      <td>Zimmermanmouth</td>
+      <td>8/19/2016 14:31</td>
+      <td>14.36</td>
+      <td>7.886290e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>45</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2401</th>
+      <td>Zimmermanmouth</td>
+      <td>9/15/2016 0:25</td>
+      <td>21.88</td>
+      <td>1.942310e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>45</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2402</th>
+      <td>Zimmermanmouth</td>
+      <td>9/16/2016 3:59</td>
+      <td>34.65</td>
+      <td>3.806180e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>45</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2395</th>
+      <td>Zimmermanmouth</td>
+      <td>11/28/2016 22:05</td>
+      <td>41.58</td>
+      <td>7.488860e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>45</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2404</th>
+      <td>Zimmermanmouth</td>
+      <td>11/12/2016 22:15</td>
+      <td>5.27</td>
+      <td>8.859330e+11</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>45</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2400</th>
+      <td>Zimmermanmouth</td>
+      <td>6/1/2016 11:10</td>
+      <td>42.01</td>
+      <td>5.892580e+11</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>45</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2394</th>
+      <td>Zimmermanmouth</td>
+      <td>1/28/2016 1:13</td>
+      <td>43.51</td>
+      <td>2.489770e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>45</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2390</th>
+      <td>Zimmermanmouth</td>
+      <td>5/25/2016 14:46</td>
+      <td>41.96</td>
+      <td>5.202600e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>45</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2392</th>
+      <td>Zimmermanmouth</td>
+      <td>8/12/2016 2:53</td>
+      <td>34.84</td>
+      <td>7.176330e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>45</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2391</th>
+      <td>Zimmermanmouth</td>
+      <td>8/9/2016 4:35</td>
+      <td>26.63</td>
+      <td>2.326210e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>45</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2389</th>
+      <td>Zimmermanmouth</td>
+      <td>2/11/2016 19:07</td>
+      <td>14.50</td>
+      <td>7.547390e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>45</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2388</th>
+      <td>Zimmermanmouth</td>
+      <td>5/4/2016 18:32</td>
+      <td>20.96</td>
+      <td>6.490500e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>45</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2387</th>
+      <td>Zimmermanmouth</td>
+      <td>7/23/2016 19:20</td>
+      <td>28.89</td>
+      <td>1.529360e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>45</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2386</th>
+      <td>Zimmermanmouth</td>
+      <td>9/19/2016 2:40</td>
+      <td>16.21</td>
+      <td>4.966550e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>45</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2385</th>
+      <td>Zimmermanmouth</td>
+      <td>8/1/2016 20:38</td>
+      <td>34.95</td>
+      <td>2.258160e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>45</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2384</th>
+      <td>Zimmermanmouth</td>
+      <td>8/11/2016 11:17</td>
+      <td>5.97</td>
+      <td>7.276040e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>45</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2383</th>
+      <td>Zimmermanmouth</td>
+      <td>6/29/2016 21:29</td>
+      <td>17.12</td>
+      <td>1.214600e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>45</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2405</th>
+      <td>Zimmermanmouth</td>
+      <td>8/21/2016 5:53</td>
+      <td>40.95</td>
+      <td>5.672690e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>45</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2393</th>
+      <td>Zimmermanmouth</td>
+      <td>5/11/2016 17:45</td>
+      <td>37.04</td>
+      <td>9.089070e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>45</td>
+      <td>Urban</td>
+    </tr>
+    <tr>
+      <th>2406</th>
+      <td>Zimmermanmouth</td>
+      <td>10/21/2016 4:10</td>
+      <td>24.69</td>
+      <td>9.508850e+12</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
       <td>45</td>
       <td>Urban</td>
     </tr>
   </tbody>
 </table>
-<p>2407 rows × 6 columns</p>
+<p>2407 rows × 11 columns</p>
 </div>
 
 
@@ -631,7 +941,9 @@ Result_merge1.columns
 
 
 
-    Index(['city', 'date', 'fare', 'ride_id', 'driver_count', 'type'], dtype='object')
+    Index(['city', 'date', 'fare', 'ride_id', 'Unnamed: 4', 'Unnamed: 5',
+           'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'driver_count', 'type'],
+          dtype='object')
 
 
 
@@ -1368,7 +1680,7 @@ explode = (0, 0, 0.1)
 plt.pie(perdrivercalcu, explode=explode, labels=labels, colors=colors,
         autopct="%1.1f%%", shadow=True, startangle=140)
 
-plt.title("% of Total Rides by City Type ")
+plt.title("% of Total Drivers by City Type ")
 
 plt.axis("equal")
 
@@ -1380,4 +1692,15 @@ plt.show()
 
 
 ![png](output_12_0.png)
+
+
+Three observable trends based on the city and Ride data
+
+- Urban has the most rides per city comparing to Rural and Suburban city types. 
+Comparing fares of Rural and Urban cities, Rural cities have a higher fare then Urban cities. But Rural cities have a less ride comparing Urban cities. 
+
+-Urban has the most total percent of fares by citytype
+
+-Davidtown, an Urban city has the most drivers out of all the cities. 
+
 
